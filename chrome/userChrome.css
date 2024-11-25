@@ -1871,9 +1871,13 @@ xul|search-textbox[focused],
     }
 
     #PanelUI-menu-button {
-      left: 13px !important;
+      left: 40px !important;
     }
 
+    #library-button {
+      left: 6px !important;
+    }
+    
     #nav-bar-overflow-button {
       left: 40px !important;
     }
