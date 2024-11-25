@@ -10,3 +10,8 @@ Ensure the following preferences are `true`:
 - `widget.windows.mica`
 
 - `uc.tweak.newtab-background` for the background
+
+
+
+### Credit
+https://github.com/akkva/gwfox
