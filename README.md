@@ -11,7 +11,8 @@ Ensure the following preferences are `true`:
 
 - `uc.tweak.newtab-background` for the background
 
-
+### Notes
+add library button on navbar
 
 ### Credit
 https://github.com/akkva/gwfox
