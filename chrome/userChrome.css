@@ -2274,8 +2274,7 @@ xul|search-textbox[focused],
   }
 }
 
-#urlbar-searchmode-switcher,
-#sidebar-splitter {
+#urlbar-searchmode-switcher{
   display: none !important;
 }
 #sidebar-box {
